@@ -1,0 +1,95 @@
+{
+  "personal_information": {
+    "name": "Adrián Moral Bailón",
+    "location": "España, Logroño",
+    "job_title": "Backend Developer",
+    "phone": "647227652",
+    "email": "adrian.imb94@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/adri%C3%A1n-moral-bail%C3%B3n-b51107210",
+    "description": "Over the past few years, I have been deeply involved in providing solutions for the design and maintenance of microservices architectures, particularly those focused on creating highly scalable systems. This experience has allowed me to gain extensive knowledge and a broader view of microservices architectures and cloud solutions. \\n\\nCurrently, I hold a leadership position, responsible for guiding teams and ensuring the success of our projects. My main strength lies in my genuine passion for continuous improvement and progress within this industry. My current focus is on microservices, where my goal is to leverage technology to design and implement highly efficient, scalable and resilient microservices architectures. \\n\\nMy main skills include expertise in frameworks such as Spring and Quarkus, which are essential for building robust Java applications. I have a strong command of Java and its ecosystem, which allows me to develop scalable, high-performance microservices. In addition, I am well versed in cloud platforms, containerization technologies such as Docker, and orchestration tools such as Kubernetes, which are integral to modern microservices architecture. This technical foundation allows me to create solutions that are not only efficient, but also maintainable and adaptable to changing business needs.\n\nTranslated with DeepL.com (free version)"
+  },
+  "education": [
+    {
+      "institution": "IES Comercio",
+      "degree": "Higher Degree in Web Application Development",
+      "start_date": "2019",
+      "end_date": "2021",
+      "location": "Logroño"
+    },
+    {
+      "institution": "CIP Politécnico Estella",
+      "degree": "Higher Degree in Multiplatform Application Development",
+      "start_date": "2018",
+      "end_date": "2021",
+      "location": "Logroño"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Bosonit",
+      "title": "Backend Developer",
+      "start_date": "Mar, 2022",
+      "end_date": "Present",
+      "location": "La Rioja, Logroño",
+      "description": "Designing and managing a low-code solution that prioritizes high availability of enterprise applications involves the integration of modern frameworks and technologies that ensure robust performance, rapid deployment and minimal downtime. This approach aims to streamline the development process while maintaining application reliability and scalability. We integrate Quarkus, known for its exceptional performance and fast start-up times, as one of the frameworks that fits perfectly into this strategy."
+    },
+    {
+      "company": "Bosonit",
+      "title": "Backend Developer",
+      "start_date": "Mar, 2022",
+      "end_date": "Feb, 2023",
+      "location": "La Rioja, Logroño",
+      "description": "During this project, I led the development of an event-driven microservices platform using saga for distributed transaction management. The architecture was designed following the Netflix OSS pattern, using Spring predominantly in all microservices. In addition to my role in designing and maintaining the architecture, I also oversaw the management of the team, providing training, leadership and managing client requirements. I actively participated in technical interviews to ensure the quality of the team."
+    },
+    {
+      "company": "Bosonit",
+      "title": "Desarrollador backend",
+      "start_date": "Mar, 2021",
+      "end_date": "Jun, 2021",
+      "location": "La Rioja, Logroño",
+      "description": "Development of a centralized business process automation and internal management application using Python, Selenium and Power Automate."
+    }
+  ],
+  "skills": [
+    "Java",
+    "Spring",
+    "Quarkus",
+    "Docker",
+    "Kafka",
+    "RabbitMQ",
+    "Hibernate",
+    "JPA",
+    "SQL",
+    "MongoDB",
+    "PostgreSQL",
+    "..."
+  ],
+  "certifications": [
+    {
+      "name": "Certified JavaScript Developer",
+      "issuing_organization": "Tech Certification Board",
+      "issue_date": "2020-05-01"
+    },
+    {
+      "name": "Certified Scrum Master",
+      "issuing_organization": "Scrum Alliance",
+      "issue_date": "2021-08-15"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "B2"
+    }
+  ],
+  "hobbies": [
+    "Snowboarding",
+    "Traveling",
+    "Reading",
+    "Programming"
+  ]
+}
